@@ -1,0 +1,1679 @@
+[
+  {
+    "id": "ARRE",
+    "name": "Architect Register",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "Registering as an architect in the ACT will allow you to advertise your services legally and to call yourself an architect. You must register under the Architects Act 2004 and meet all the eligibility requirements.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFRA",
+        "type": "Apply",
+        "name": "for registration as an architect in the ACT",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AOAR",
+        "type": "Register",
+        "name": "an architect to be a nominee for a company or partnership in the ACT",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "ASAS",
+    "name": "Asbestos Assessor Licence",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "In the ACT, only a licensed asbestos assessor can undertake asbestos identification, risk assessment, air monitoring, clearance inspections and the issuing of clearance certificates. The scope of the assessor licence is therefore broader than in other States or Territories.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APAS",
+        "type": "Apply",
+        "name": "for asbestos assessor licence",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "ASRE",
+    "name": "Asbestos Removal Licence",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "In the ACT, only a licensed asbestos assessor can undertake asbestos identification, risk assessment, air monitoring, clearance inspections and the issuing of clearance certificates. The scope of the assessor licence is therefore broader than in other States or Territories.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APAR",
+        "type": "Apply",
+        "name": "for asbestos removal licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APRE",
+        "type": "Apply",
+        "name": "for a replacement licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "CHNO",
+        "type": "Register",
+        "name": "a change of address",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "INLI",
+        "type": "Register",
+        "name": "an intention to work in the ACT",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "COOC",
+    "name": "Construction Occupations Licence",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "Licensing is an important component of mandating a minimum standard of competence in the building and construction industry.\nTypes of licence\nLicences are required in the ACT for:\nbuilders, including owner–builders\nelectricians\nplumbers, drainers and gasfitters\nbuilding surveyors (private certifiers)\nbuilding assessors\ngas appliance workers\nworks assessors\nplumbing plan certifiers",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFAR",
+        "type": "Apply",
+        "name": "for architect registration",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFBA",
+        "type": "Apply",
+        "name": "for building assessor licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFBL",
+        "type": "Apply",
+        "name": "for Builder licence\n",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFBS",
+        "type": "Apply",
+        "name": "for Building surveyor (private certifier) licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFCA",
+        "type": "Apply",
+        "name": "for corporation and partnership licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFEL",
+        "type": "Apply",
+        "name": "for electrician licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFGA",
+        "type": "Apply",
+        "name": "for gas appliance worker licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFOB",
+        "type": "Apply",
+        "name": "for owner–builder licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFPD",
+        "type": "Apply",
+        "name": "for plumber, drainer and gasfitter licences",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFPP",
+        "type": "Apply",
+        "name": "for plumbing plan certifier licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "AFWA",
+        "type": "Apply",
+        "name": "for works assessor licence",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "SELI",
+    "name": "Security Licences",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "A security master licence authorises the licensee to employ or provide people to carry on a security activity. This licence does not authorise the holder to also carry out security activities unless they themselves have an employee security licence.\nThere are no training requirements for a master licence, thus the holder of a master licence does not necessarily have the qualifications to perform functions under an employee licence.\nA master licence is not required if you acquire contracted security services, although the contracting company must have an ACT security master licence and comply with the requirements of the Security Industry Act 2003.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APLI",
+        "type": "Apply",
+        "name": "for or renew of security Licence",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APON",
+        "type": "Apply",
+        "name": "for replacement card online",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "PATE",
+        "type": "Pay",
+        "name": "for temporary licences online",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "BEOP",
+    "name": "Betting operations tax",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "On 1 January 2019, the ACT Government introduced the Betting Operations Tax. This is administered by the ACT Revenue Office in accordance with the Betting Operations Tax Act 2018 (external site).\r\n\r\nThis is a self-assessed point of consumption tax of 15%, payable by all betting operators whose Net ACT Betting Revenue (NABR) from ACT bets exceed the tax-free threshold in a financial year.\r\n\r\nWhat is meant by a 'betting operator'?\r\nA ‘betting operator’ is defined to mean any person who earns revenue as a result of accepting ACT bets or providing a service through which ACT bets are made.\r\n\r\nWhat is an 'ACT bet'?\r\n‘ACT bets’ are bets that are placed with a betting operator by a person located in the ACT when the bet is placed.\r\n\r\nA person is deemed to be located in the ACT if:\r\n\r\nthe person is present in the ACT when the bet is placed, or\r\nif the betting operator does not know the person’s location when a bet is placed and that person is required to register with the operator before a bet is placed, the person’s registered address is in the ACT.\r\nWhat is a 'bet'?\r\nA bet is defined as a stake, pledge or wager between two (2) people on any event or contingency but does not include a game or lottery authorised by a gaming Act.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "REAP",
+        "type": "Pay",
+        "name": "betting operations tax",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "NEFA",
+    "name": "Network facilities tax",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "Utilities (Network Facilities) Tax, is payable by the owners of any network facility on land in the ACT. A network facility is any part of the infrastructure of a utility network not fixed to land subject to a lease, a license granted by the Territory or any right prescribed by regulation.\r\n\r\nUtility networks include networks for transmitting and distributing electricity, gas, sewage, water and telecommunications.  Examples of network facilities include power lines or pipes over or under land, and telecommunications cabling.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "LARE",
+        "type": "Lodge",
+        "name": "a return",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "PATA",
+    "name": "Payroll tax",
+    "category": "Business",
+    "categoryId": "BUSI",
+    "description": "Payroll tax is payable by an employer in the ACT if its total taxable wages, or the total taxable wages of the group that it belongs to, exceed the threshold.\r\n\r\nMonthly and annual reconciliation payroll tax returns must be submitted to the ACT Revenue Office.\r\n\r\nSubmit a return online or visit the ACT Revenue Office website for more information.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "LOAR",
+        "type": "Lodge",
+        "name": "a return",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "WOWI",
+    "name": "Working With Vulnerable People",
+    "category": "Community and family",
+    "categoryId": "COFA",
+    "description": "The WWVP scheme aims to reduce the risk of harm or neglect to vulnerable people in the ACT. It requires those who work or volunteer with vulnerable people to have a background check to determine an applicant’s suitability to be registered under the scheme.\nBackground checking involves a thorough assessment of information about the applicant that may be relevant to determining the possible risk that they may pose to vulnerable people while engaging in a regulated activity.\nRegistration decisions regard the best interests of vulnerable people as the paramount consideration, taking into account their safety, welfare and protection.\nA WWVP registration is not an employment or probity check, so should not prevent a person from gaining suitable employment with an organisation, unless all positions in the organisation require a registration.\nPeople who are not registered, have a positive registration with restrictions or have been issued a negative notice may still be employed in suitable positions that are not a regulated activity.\nNot all positions in an organisation involving contact with vulnerable people require a WWVP registration. Only those persons who have more than incidental contact in regulated activities or services with vulnerable people need to be registered.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APEN",
+        "type": "Apply",
+        "name": "for renewal",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APFR",
+        "type": "Apply",
+        "name": "for registration",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "RELO",
+        "type": "Replace",
+        "name": "a lost card",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Very Strong",
+    "identityStrengthLevel": "4",
+    "messages": []
+  },
+  {
+    "id": "COAS",
+    "name": "Funeral Assistance",
+    "category": "Community and family",
+    "categoryId": "COFA",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "FUAS",
+        "name": "Funeral Assistance",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "HOHR",
+        "name": "Home Haemodialysis Rebate",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "LISR",
+        "name": "Life Support Rebate",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "LVAS",
+        "name": "Low Vision Aids Scheme",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "SPSS",
+        "name": "Spectacles Subsidy Scheme",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "TASS",
+        "name": "Taxi Subsidy Scheme",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "UTCO",
+        "name": "Utilities Concession",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "COBU",
+    "name": "Community bus services",
+    "category": "Community and family",
+    "categoryId": "COFA",
+    "description": "The Community Bus Service is proudly funded by the ACT Government and operated by the ACT’s Regional Community Services. They provide flexible Bus Services for ACT residents, Monday to Friday, generally within their own regional area. Pickup and set down points can be negotiated when making a booking.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "BABS",
+        "type": "Register",
+        "name": "for a Bus Service",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "COED",
+    "name": "Community education registration",
+    "category": "Community and family",
+    "categoryId": "COFA",
+    "description": "The Community Services Directorate provides a number of development opportunities for government and non-government organisations. We also provide some training opportunities to members of the public.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "RFAC",
+        "type": "Register",
+        "name": "for a course",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "DIRE",
+    "name": "Diversity register",
+    "category": "Community and family",
+    "categoryId": "COFA",
+    "description": "The Diversity Register connects everyone, including women and people with diverse experiences with ACT Government and non-government board vacancies.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "JOTR",
+        "type": "Register",
+        "name": "for board positions and training opportunities",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "GRSC",
+    "name": "Grants, scholarships and awards",
+    "category": "Community and family",
+    "categoryId": "COFA",
+    "description": "There are many grants, scholarships, and awards available through the Community Services Directorate.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFAG",
+        "type": "Apply",
+        "name": "for a grant",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "MYFA",
+    "name": "My family",
+    "category": "Community and family",
+    "categoryId": "COFA",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "CIEN",
+    "name": "CIT student fee payment",
+    "category": "Education",
+    "categoryId": "EDUC",
+    "description": "CIT students receive invoices stating their fees payable. Invoices may be paid in smaller amounts, however your registration will be cancelled if fees are not paid by the invoice due date.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "PAAI",
+        "type": "Pay",
+        "name": "an invoice",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "EXEM",
+    "name": "Education Attendance Exemption",
+    "category": "Education",
+    "categoryId": "EDUC",
+    "description": "The Education Act 2004 (the Act) requires parents of children living in the ACT of compulsory education age (6-17 years) to be enrolled with an education provider or be registered for home education. If a child has completed year 10, they may elect to participate in an approved work-related training or employment alternative.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFAE",
+        "type": "Apply",
+        "name": "for an Exemption",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Education Directorate",
+    "serviceProviderId": "EDUC",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "HOED",
+    "name": "Home education",
+    "category": "Education",
+    "categoryId": "EDUC",
+    "description": "In the Australian Capital Territory all home educated children must be registered with the ACT Education Directorate (the Directorate) in accordance with the Education Act 2004",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFHE",
+        "type": "Apply",
+        "name": "for Home Education",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Education Directorate",
+    "serviceProviderId": "EDUC",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "SCEN",
+    "name": "School enrolment",
+    "category": "Education",
+    "categoryId": "EDUC",
+    "description": "Your local public school has a place for your child to learn, develop and reach their potential. Online enrolment in the ACT can be made for children from Preschool through to Year 12",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "ENRO",
+        "type": "Register",
+        "name": "a student",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Education Directorate",
+    "serviceProviderId": "EDUC",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": ["**23 days** until enrolments close for the next school term"]
+  },
+  {
+    "id": "AGLI",
+    "name": "Agent Licences",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "Access Canberra is responsible for licensing of real estate, business & stock and station agents under the Agents Act 2003.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "ANIN",
+        "type": "Pay",
+        "name": "an annual invoice",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "RECO",
+        "type": "Renew",
+        "name": "a licence for a corporation",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "REIN",
+        "type": "Renew",
+        "name": "a licence for an individual",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "CHNA",
+    "name": "Change of name, sex, birth, marriage, death registration",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "If you wish to apply for a birth, death or marriage certificate where the registration took place in another State or Territory you will have to apply to the relevant State or Territory Births, Deaths and Marriages Registry. Each registry has their own application process and proof of identity requirements. ",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "YOPE",
+        "type": "Apply",
+        "name": "for a change of name and/or sex",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APBI",
+        "type": "Apply",
+        "name": "for my birth certificate",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APCH",
+        "type": "Apply",
+        "name": "for my child's birth certificate",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APCN",
+        "type": "Apply",
+        "name": "to change your child's name",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APDE",
+        "type": "Apply",
+        "name": "for a death certificate",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APMA",
+        "type": "Apply",
+        "name": "for a marriage certificate",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APNA",
+        "type": "Apply",
+        "name": "to change your name",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "CHNA",
+        "type": "Register",
+        "name": "a change of name by marriage",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Very Strong",
+    "identityStrengthLevel": "4",
+    "messages": []
+  },
+  {
+    "id": "HIRI",
+    "name": "High Risk Work Licences",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "A high-risk work licence is required for working in a variety of hazardous environments and for operation of certain types of heavy or hazardous equipment.\n\nThe high-risk work licensing system presently provides for 30 classes of high risk work, divided into 5 categories.\n\nScaffolding work\nDogging and rigging work\nCrane and hoist operation\nForklift operation\nPressure equipment operation",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "NEAD",
+        "type": "Apply",
+        "name": "for a new licence, add a class or interstate transfer",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "RERE",
+        "type": "Renew",
+        "name": "or replace a licence",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "JUPE",
+    "name": "Justice of the peace registration",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "Justices of the Peace in the ACT are appointed by the Minister, under the Act, but the Act does not prescribe their role. Generally, the role of Justices of the Peace in the ACT is determined by procedural requirements of other ACT legislation. Justices of the Peace may, however, perform a wider range of functions under Commonwealth law, including the witnessing statutory declarations. Specifically, Justices of the Peace have a role under the Oaths and Affirmations Act 1984. Under this Act, an oath or affidavit to be made for the purposes of a proceeding or for any purpose under law in the ACT can be sworn or affirmed before a Justice of the Peace.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "SEON",
+        "type": "Apply",
+        "name": "to become a Justice of the Peace",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "UPPR",
+        "type": "Update",
+        "name": "JP personal profile",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Very Strong",
+    "identityStrengthLevel": "4",
+    "messages": []
+  },
+  {
+    "id": "PRID",
+    "name": "Proof of Identity cards",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "To obtain a proof of identity card (initial issue or replacement) the applicant must attend an Access Canberra location and provide original copies of proof of identity and age (you must be 18 years of age or older). To have an address printed on the card, Proof of Residency will need to be provided. Further information about identity requirements and accepted documents can be found on the proof of identity and residency page.\r\n\r\nOnce payment has been made and the transaction is completed, your photo card will be mailed to your nominated postal address. Please allow up to 21 business days for delivery. If you have not received your licence after that time, please contact 13 22 81.\r\n\r\nIf you wish to replace a damaged card, the damaged card must be surrendered.\r\n\r\nFraudulent applications for a proof of identity card will lead to prosecution against the applicant.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APOP",
+        "type": "Apply",
+        "name": "for a proof of identity card",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Very Strong",
+    "identityStrengthLevel": "4",
+    "messages": []
+  },
+  {
+    "id": "SECA",
+    "name": "Senior's Cards",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "The ACT Seniors Card is issued free and provides access to savings on a range of goods and services provided by participating businesses. A combination of government and private businesses make up the more than 300 participating organisations that provide a number of benefits and discounts on a wide range of goods and services. Business and services who offer discounts are listed in the Discount Directory.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APNO",
+        "type": "Apply",
+        "name": "online now",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "UMIA",
+    "name": "Update my information across ACT Government",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "Update your information once for all of ACT Government",
+    "isPopular": true,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "UMII",
+        "type": "Update",
+        "name": "my identity information",
+        "time": 2,
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "PARE",
+    "name": "Revenue Office Payments and refunds",
+    "category": "Government",
+    "categoryId": "GOVE",
+    "description": "From 18 September 2017 payments for the following can only be made online:\r\n\r\nconveyance duty\r\nduty on commercial leases with a premium\r\nlandholder duty\r\nother fees including rates and land tax conveyancing statements\r\nAccepted payment methods are BPAY and Electronic Funds Transfer (EFT). Payments can take up to 48 hours to be received and processed by our office.\r\n\r\nThe ACT Revenue Office does not issue receipts for BPAY or EFT payments, please retain bank statements as record and proof of payment.\r\n\r\nPlease note: the BPAY Biller code (828442) displayed on your notice of assessment only accepts debit accounts. Credit card accounts cannot be used to make payment against this Biller Code.\r\n\r\nYour unique electronic payment details are displayed in the Notice of Assessment issued by the ACT Revenue Office.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "DERE",
+        "type": "Apply",
+        "name": "for a payment plan",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "REFU",
+        "type": "Apply",
+        "name": "for a refund",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "HOTP",
+        "type": "Pay",
+        "name": "a debt",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "COVA",
+    "name": "COVID-19 assistance",
+    "category": "Health",
+    "categoryId": "HEAL",
+    "description": "If you are unwell, awaiting the results from a COVID-19 test, or are under lockdown, quarantine, isolation, or stay-at-home orders and cannot work, you may be eligible for financial assistance.",
+    "isPopular": true,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "CEFS",
+        "type": "Check",
+        "name": "my eligibility for support",
+        "description": "The ACT Government put in place tax relief measures to help businesses and households impacted by the COVID-19 pandemic.\n\nThe Residential land tax tenancy relief measures are subject to ongoing operation or finalisation of applications.\n\n\n\n",
+        "time": 15,
+        "requirements": [
+          "The rent reduction is to be agreed between parties based on the tenant suffering financial hardship arising from the COVID-19 emergency ",
+          " The rent reduction must be a genuine reduction, not a deferral ",
+          " If the landlord and tenant are associates, the arrangements must be at arm’s length "
+        ],
+        "whatToExpect": "If your application is approved, we will apply this credit as a reduction to your land tax account.",
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "COIN",
+    "name": "Construction induction card (white card)",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Construction workers in the ACT require a General Construction Induction Card (White Card) when working on a construction site.\r\n\r\nThe Work Health and Safety Regulation 2011 requires that a person conducting a business or undertaking must ensure workers have successfully completed general construction induction training before starting construction work. Each construction worker must hold:\r\n\r\na general construction induction training card\r\na general construction induction training certification that has been issued within the preceding 60 days if the worker has applied for but not yet been issued with a general construction induction training card.\r\nWorkSafe ACT considers it best practice for owner builders to have a construction induction card, as one way of demonstrating that they have received adequate training in complying with their primary duty of care under the Act.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APCO",
+        "type": "Apply",
+        "name": "for card online",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APRC",
+        "type": "Apply",
+        "name": "for replacement card online",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "RALA",
+    "name": "Rates, Land Tax, Land Rent and Deferred Duty",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "The combined Rates, Land Tax and Land Rent Account Payment Form allows you to pay multiples of any of these accounts on one form.\r\n\r\nFor information on rates assistance, including rebates and deferment and pensioner, special disability trust and hardship assistance, please refer to the ACT Revenue Office website.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "PANO",
+        "type": "Pay",
+        "name": "tax and rates online now",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "HOBU",
+    "name": "Home buyer assistance",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "The ACT Government has a concession scheme to help people buy a home or residential land. The scheme is administered by the ACT Revenue Office.\n\nThe scheme helps people to buy the home that’s right for them by removing or reducing duty on any property they want to buy.\n\nTo view the eligibility requirements for the scheme and determine whether you will have to pay duty, select from the below. The transaction date is the date of grant, transfer, or agreement for transfer, whichever is first—it is not the settlement date.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "FIHO",
+        "type": "Check",
+        "name": "my eligibility for First Home Owner Grant",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "OWOC",
+        "type": "Check",
+        "name": "my eligibility for Owner occupier duty concession",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "PEDU",
+        "type": "Check",
+        "name": "my eligibility for Pensioner duty concession scheme",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "HOOW",
+    "name": "Home owner assistance",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "If you’re a home owner in the ACT and receive a Commonwealth Government pension with entitlement to a Pensioner Concession Card, a Department of Veterans’ Affairs or a War Veteran’s pension, you may be eligible for a rates rebate.\r\n\r\nThe pensioner rates rebate only applies to your principal place of residence. From 2021-22, it is a 50 per cent rebate on your rates capped at $750 (a permanent increase of $50).\r\n\r\nThis is in addition to an increase to the Utilities Concession by $50 to $750 and an additional one-off $50 increase to the Utilities Concession for 2021-22. Canberrans eligible for the Pensioner General Rates Rebate may also be eligible for the Utilities Concession, if so this brings the total amount of additional cost of living assistance to $150 for 2021-22. This will fully offset the impact of removing the $150 residential rates rebate provided to all households in 2020-21. For more information on the Utilities Concession, visit www.revenue.act.gov.au/community-assistance/utilities-concession.\r\n\r\nEligible applicants will also receive a rebate of $98 for the Fire and Emergency Services Levy.\r\n\r\nIf there are two property owners and they are both eligible for the pension, the household will receive the full rebate. If there is only one person eligible for the pension, 50 per cent of the rebate will be applied.\r\n\r\nIf you have been continuously eligible for the rebate since 30 June 1997, you are covered by a different rebate scheme. The amount of your rebate is 50 per cent of your rates, but your rebate is capped at the 2015–16 level if it exceeds $750.\r\n\r\nA rebate can only be applied from the year of application and not before. If you become a pensioner during the year, contact us as soon as possible to determine whether you’re eligible for a rebate.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFRA",
+        "type": "Apply",
+        "name": "for rates assistance",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "LALE",
+    "name": "Landtax, levies and duties",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "The ACT Government collects land tax to provide a range of essential services to the ACT community.\r\n\r\nLand tax applies to ACT properties that are not your principal place of residence. This includes both rented properties and those which are vacant, properties owned as a trustee, and rented dwellings on the same property as your home (such as a granny flat).\r\n\r\nIf you’re not an Australian citizen or resident of Australia, you also need to pay the foreign ownership surcharge .\r\n\r\nLand tax does not apply to commercial properties. Some residential properties are exempt from land tax .\r\n\r\nYou must tell the Commissioner for ACT Revenue if you own a property that is or becomes liable for land tax. High penalties may apply if you do not notify us that you are liable for land tax.\r\n\r\nUse the Land tax notification form to notify us of your land tax liability, including the foreign ownership surcharge.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "PYLT",
+        "type": "Pay",
+        "name": "my land tax",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "LEVA",
+    "name": "Lease variation charge",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "RADE",
+    "name": "Rates deferrals and rebates",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "If you’re a property owner in the ACT, you pay rates that help fund the essential services and infrastructure all Canberrans rely on, like schools, hospitals, public transport and community facilities.\n\nYou are an ‘owner’ for rates purposes if you are:\n\nthe registered proprietor of a parcel of land\na new owner in possession of the parcel but not yet registered as the proprietor\na mortgagee in possession\na person holding the parcel of land under a sublease from the territory.\nIf you're renting a residential property to a tenant, or if the property is not your principal place of residence, you will need to pay land tax for the property as well.\n\nIf you're not an Australian citizen or resident, you'll need to pay the foreign ownership surcharge on top of land tax.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APFO",
+        "type": "Apply",
+        "name": "for a certificate of rates",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "APRA",
+        "type": "Apply",
+        "name": "for rates deferral",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "ROTO",
+        "type": "Register",
+        "name": "to receive notes electronically",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "REBO",
+    "name": "Rental bonds",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Most landlords or agents will ask you to pay a bond when renting a residential property. A bond acts as a security for the performance of the tenant’s obligations under a residential tenancy agreement. Lessors and agents are not required by law to take a bond from a tenant, however, if they do receive a bond, they are required to lodge it with the ACT Revenue Office. Bonds can be any amount up to a maximum of four weeks rent. Lessors and agents must give the tenant a receipt as proof of payment of the bond. Occupancy agreements may require a security deposit be paid.  When a refund is requested, a claim may be made by the lessor (also known as the landlord) for damage caused by a tenant (besides normal wear and tear) or outstanding rent owed.\r\n\r\nThe ACT Revenue Office is responsible for the receipt and management of residential tenancy rental bonds in the ACT under the Residential Tenancies Act 1997 (the Act) and the Residential Tenancies Regulation 1998 (the Regulation).\r\n\r\nThe ACT Revenue Office does not provide legal advice to tenants, landlords or real estate agents. The Renting Book is a guide to rental laws in the ACT, other useful resources are listed on the Related Resources page of this site.\r\n\r\nIf you are the lessor, you will need to pay land tax for both a rented or vacant property that is not your principal place of residence. You may be liable for the foreign ownership surcharge if you are not an Australian citizen or resident.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APLO",
+        "type": "Apply",
+        "name": "for a loan",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "PALO",
+        "type": "Pay",
+        "name": "out my loan",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "ACT Revenue Office",
+    "serviceProviderId": "ACRE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "AFRE",
+    "name": "Affordable rental scheme",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "The Affordable Rental Office offers energy efficient, two-bedroom, self-contained properties that are set in landscape surrounds. The properties incorporate easy access features and secure integrated parking, and are close to amenities such as public transport, clubs and shops.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AAAR",
+        "type": "Apply",
+        "name": "for an Affordable Rental",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "BUGO",
+    "name": "Buying a government property",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "If you have been a Housing ACT tenant for at least three years, you may be able to buy your government home.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APFE",
+        "type": "Apply",
+        "name": "for evaluation to buy your government home",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "GOHO",
+    "name": "Government Housing and Sundry Payments",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Important Information from Housing ACT\nMaking Payments to Housing ACT\nHousing ACT payment cards\nHousing ACT tenants are charged a weekly amount of rebated or market rent for their leased property, depending on their level of income. Housing ACT tenants are required by their Tenancy Agreement to pay rent fortnightly in advance.\n\nIn addition to the rent, tenants may also have to pay for other costs associated with their tenancy, for example, to repair damage to the property or to replace lost keys. Where Housing ACT does this work for a tenant, the tenant must repay the cost of the work to Housing ACT. These costs are commonly called sundry debts. Housing ACT tenants will have these sundry debts debited to a Sundry account, which is separate from their Rent account.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "MAPA",
+        "type": "Pay",
+        "name": "my housing costs",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "HOMA",
+    "name": "Housing maintenance",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Provide your details to submit a maintenance request on your property.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "HOMR",
+        "type": "Request",
+        "name": "Housing Maintenance",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "RELO",
+    "name": "Rental bond loans",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Rental bond help is interest-free financial help that covers up to 100% of your rental bond. Housing ACT offer to pay the rental bond of eligible people wanting to start a tenancy in the ACT private rental market. The bond amount is then repaid to Housing ACT in small instalments.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "ARBH",
+        "type": "Apply",
+        "name": "for Rental Bond Help",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "RERE",
+    "name": "Rental rebates",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "A rental rebate is assistance given to tenants of public and community housing who are unable to pay the market or full rent of their property. It is the difference between market rent and the maximum rent, calculated as a percentage of assessable household income.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AARR",
+        "type": "Apply",
+        "name": "for a rental rebate",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "SOHO",
+    "name": "Social housing",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Social Housing incorporates Public Housing, Community Housing and Affordable Housing, offering low cost housing for people on low and moderate incomes, and/or for groups whose housing needs are not adequately met in other forms of housing.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "APFH",
+        "type": "Apply",
+        "name": "for Housing",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "YOHO",
+    "name": "Youth housing",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Housing for Young People Program (HYPP) was implemented in recognition that young people have difficulty securing long-term accommodation and are particularly affected by the lack of access to available affordable housing.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFYH",
+        "type": "Apply",
+        "name": "for Youth Housing",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Community Services Directorate",
+    "serviceProviderId": "COSE",
+    "identityStrength": "Strong",
+    "identityStrengthLevel": "3",
+    "messages": []
+  },
+  {
+    "id": "FIMY",
+    "name": "Fix My Street",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "Fix My Street is an online tool that lets you report an issue and track the progress of your request. Citizens may submit feedback anonymously or create an account to track the progress of their service requests.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "RIWM",
+        "type": "Lodge",
+        "name": "an issue with my street",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Transport Canberra and City Services Directorate",
+    "serviceProviderId": "TCCS",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "NOWA",
+    "name": "NoWaste additional or upgraded bins",
+    "category": "Land, planning, building and housing",
+    "categoryId": "LAPL",
+    "description": "The upgrade your bins form is used to request an additional or upgraded red or yellow bin, or a 240-litre garden organics bin (green bin).",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "REAB",
+        "type": "Request",
+        "name": "an additional bin",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "UPBI",
+        "type": "Request",
+        "name": "a bin upgrade",
+        "requirements": [],
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Transport Canberra and City Services Directorate",
+    "serviceProviderId": "TCCS",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "TRMY",
+    "name": "My Infringements",
+    "category": "Law and order",
+    "categoryId": "LAOR",
+    "description": "You can now pay, manage or dispute your infringement online, 24/7.\n\nNeed to provide additional information about your infringement? You can do that too, online 24/7.\n\nYou do not need to visit an Access Canberra Service Centre.\n\nAs a driver, you can choose to receive your infringement via email when issued face to face. You will receive a card outlining when you were stopped, what you were stopped for and the infringement will be issued.\n\nParking infringement images can take up to 72 hours to be available.\nFor a Parking offence you have 28 days to:\n\npay - online with your infringement number\nmanage your infringement\nrequest more time\nprovide more information\nrequest a payment plan\nfinancial hardship waiver\nseek a review\ndeclare a responsible person\ndispute liability. ",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "PAIN",
+        "type": "Pay",
+        "name": "an infringement",
+        "description": "By paying an infringement you are electing to take responsibility for the infringement notice. Once payment has been made the infringement will be considered finalised.\n\nAccepted online payment methods are Visa or MasterCard only.\n\nWhen entering the infringement number, do not uses any spaces. For example, if the infringement number is 104774254 4, you would enter this number as 1047742544.",
+        "time": 10,
+        "requirements": [
+          "Infringement notice number ",
+          " Ability to pay by card"
+        ],
+        "whatToExpect": "Enter your infringement notice number and be able to easily pay online.",
+        "isRelated": false
+      },
+      {
+        "id": "TAIN",
+        "type": "Transfer",
+        "name": "an infringement",
+        "description": "An infringement notice declaration is used to describe the circumstances in which you are not the responsible person for an infringement.\n\nComplete your declaration online when the infringement is under your name and you know the details of who the responsible person was at the time of the infringement.\n\nYou can manage your infringement online when you are nominating someone for a vehicle that, at the time of the infringement, you had sold, reported stolen or if you don't know the details of who the responsible person was.",
+        "time": 20,
+        "requirements": [
+          "The infringement number ",
+          " You must be the person who received the infringement (usually the registered owner of the vehicle). ",
+          " To use this service we need to verify your identity (similar to making a Statutory Declaration in our Service Centres) ",
+          " To verify your identity you will log in to your ACT Digital Account (or create one). ",
+          " We will need you to tell us who was in control of the vehicle at the time of the offence"
+        ],
+        "whatToExpect": "Your request will be processed and if valid, the nominated person will be contacted and recieve a new infingement notice and your infringement will be removed.",
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "DORE",
+    "name": "Dog Registrations",
+    "category": "Pets and wildlife",
+    "categoryId": "PEWI",
+    "description": "Keeping dog registration details up to date means Domestic Animal Services can return lost dogs to their owners as quickly as possible and follow-up on reports of dangerous dogs or dog attacks. It also provides better information about where dogs live so that education activities can be better targeted.",
+    "isPopular": false,
+    "isRelated": true,
+    "actions": [
+      {
+        "id": "CMDR",
+        "type": "Cancel",
+        "name": "my dog's registration",
+        "description": "You should cancel your dog's registration if you have moved interstate, your dog has passed away or you no longer own the dog. Select 'cancel' on the dog registration smartform.",
+        "time": 10,
+        "requirements": [
+          "Reason for cancellation ",
+          " Information about your dog: Pet name, breed, sex, etc. ",
+          " Personal contact details"
+        ],
+        "whatToExpect": "Your dog will no longer be registerd with the ACT government.",
+        "isRelated": false
+      },
+      {
+        "id": "RMDF",
+        "type": "Register",
+        "name": "my dog for the first time",
+        "description": "Dog registration is compulsory and can be done by completing the application for dog registration (a one off registration fee applies).",
+        "time": 15,
+        "requirements": [
+          "Information about your dog including: Breed, pet name, microchip number, sex, desexed status, age ",
+          " Owner's personal details ",
+          " Residential address (where dog is kept) ",
+          " Method of payment"
+        ],
+        "whatToExpect": "You will be sent a copy of your dog's registration papers via post within 3 weeks.",
+        "isRelated": false
+      },
+      {
+        "id": "UCMD",
+        "type": "Update",
+        "name": "or confirm my dog's registration",
+        "description": "Update or confirm your dog's registration details using the dog registration smartform.",
+        "time": 10,
+        "requirements": [
+          "Details you want to have updated ",
+          " Method of payment"
+        ],
+        "whatToExpect": "Updating your dog's registration will allow us to better target services to our community and will enable us to update your record in our system. We will also mail you an updated letter of registration.",
+        "isRelated": true,
+        "relatedMessage": "New registration document sent"
+      }
+    ],
+    "serviceProvider": "Transport Canberra and City Services Directorate",
+    "serviceProviderId": "TCCS",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  },
+  {
+    "id": "DRLI",
+    "name": "Driver Licence",
+    "category": "Transport",
+    "categoryId": "TRAN",
+    "description": "You can now replace and renew your driver licence online, 24/7.\r\n\r\nRenewing a specialist driver licence for your vehicle, age or needs?\r\n\r\nYou can do that too, online 24/7.\r\n\r\nYou do not need to visit an Access Canberra Service Centre.\r\n\r\nFirst time applying for an ACT driver licence?\r\n\r\nYou will need to visit an Access Canberra Service Centre and do this in person.\r\n\r\nAfter your transaction in person or online, you will have a temporary receipt until your physical card arrives at your postal address within 21 business days. If you have not received your licence in that time, please contact 13 22 81.",
+    "isPopular": true,
+    "isRelated": true,
+    "actions": [
+      {
+        "id": "RMYL",
+        "type": "Renew",
+        "name": "my licence",
+        "description": "If your registered address is still current, you can now replace and renew your driver licence online, 24/7.\n\nRenewing a specialist driver licence for your vehicle, age or needs?\n\nYou can do that too, online 24/7.",
+        "time": 15,
+        "requirements": [
+          "Ensure your address is current ",
+          " use your existing licence number and date of birth ",
+          " provide evidence of an eye test (if required). ",
+          " Be able to pay via card"
+        ],
+        "whatToExpect": "Your new license will be mailed to your registered address. Please allow up to 3 weeks for your new license to arrive.",
+        "isRelated": false
+      },
+      {
+        "id": "UPAD",
+        "type": "Update",
+        "name": "my address",
+        "description": "You can maintain your contact details online, 24/7. \r\n\r\nYou do not need to visit an Access Canberra Service Centre.",
+        "time": 10,
+        "requirements": [
+          "Use your existing licence number, name and date of birth ",
+          " Have your new address information on hand"
+        ],
+        "whatToExpect": "An official change of address label will be mailed to your registered address. Please allow up to 3 weeks for your label to arrive.",
+        "isRelated": true,
+        "relatedMessage": "Change of address label on the way"
+      },
+      {
+        "id": "APLI",
+        "type": "Apply",
+        "name": "for a new licence",
+        "description": "First time applying for an ACT driver licence? You can do that online 24/7",
+        "time": 20,
+        "requirements": [
+          "ensure you have three or more identity documents (if required) ",
+          " complete your application online ",
+          " provide your full proof of identity and/or residency (if required) ",
+          " take the eye test (if required) ",
+          " upload a photo that meets our guidelines"
+        ],
+        "whatToExpect": "After your transaction you will have a temporary receipt until your physical card arrives at your postal address.\n\nPlease allow up to 3 weeks for your new license to arrive.",
+        "isRelated": false
+      },
+      {
+        "id": "APCL",
+        "type": "Apply",
+        "name": "for a new licence class",
+        "description": "Access Canberra must confirm your identity prior to issuing a new class of licence. If you do not hold, or cannot produce, your ACT Driver Licence, you may be required to provide full proof of identity and/or residency.\nFrom 02 February 2022 when you apply for a medium rigid (MR), heavy rigid (HR), heavy combination (HC) or multi-combination (MC) licence you will need to complete a Commercial Medical Assessment. For most people, the assessment can be completed by your local General Practitioner.",
+        "time": 10,
+        "requirements": [
+          "Use your existing licence number, name and date of birth ",
+          " ensure you have three or more identity documents (if required) ",
+          " complete your application online ",
+          " Your completed Commercial Medical Assessment ",
+          " provide your full proof of identity and/or residency (if required) ",
+          " Be able to pay via card"
+        ],
+        "whatToExpect": "After your transaction you will have a temporary receipt until your physical card arrives at your postal address.\r\n\r\nPlease allow up to 3 weeks for your new license to arrive.",
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": ["**14 days** until your driver licence expires"]
+  },
+  {
+    "id": "PUVE",
+    "name": "Public Vehicle (PV) Driver Card",
+    "category": "Transport",
+    "categoryId": "TRAN",
+    "description": "Applicants for an ACT public vehicle driver licence must meet eligibility requirements as set out in the Road Transport (Driver Licensing) Regulation 2000.\r\n\r\nAccess Canberra must confirm your identity prior to completing driver licence transactions. If you do not hold, or cannot produce, your ACT Driver Licence, you may be required to provide full proof of identity and/or residency. Further information about identity requirements can be found on the proof of identity and residency page.\r\n\r\nPublic vehicle driver licence conditions are:\r\n\r\nT - Taxi;\r\nO - Public bus;\r\nH - Hire car;\r\nM - Hire car motorcycle;\r\nW - Restricted hire car; and,\r\nD - Rideshare.\r\nEligibility requirements for all public vehicle driver licence applications include you:\r\n\r\nare a permanent Australian resident or have a visa that allows you to work in Australia;\r\nhold a full Australian driver licence; and,\r\nread and comply with all the requirements on this page.\r\nAdditional eligibility requirements for specific public vehicle driver licence conditions include:\r\n\r\nApplication for an 'O' condition - you hold a full Australian C or higher class licence and have done for at least 1 year (or for periods totalling 1 year) in the last 3 years.\r\n\r\nApplication for an 'M' condition – you hold a full Australian motorcycle licence.\r\n\r\nPlease see the Rideshare accreditation and licensing in the ACT page.\r\n\r\na T (taxi) condition\r\nYou must provide a language skills assessment certificate if you are not a citizen or passport holder from one of the following countries:\r\n\r\nAustralia;\r\nCanada;\r\nNew Zealand;\r\nRepublic of Ireland;\r\nUnited Kingdom; or\r\nUSA.\r\nan O (public bus) condition\r\nan M (hire car motorcycle) condition\r\nD (Rideshare) condition\r\nApplicants may not be issued with a public vehicle driver licence where the applicant has within the last 5 years:\r\n\r\nbeen convicted of a disqualifying offence;\r\nbeen disqualified from holding or obtaining an Australian driver licence under the law of any jurisdiction; or,\r\nhad their driver licence suspended under the law of any jurisdiction other than for the non-payment of an infringement notice penalty.\r\nWhile operating a public vehicle, you must have a blood alcohol content (BAC) of 0.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AFAP",
+        "type": "Apply",
+        "name": "for a Public Vehicle Licence Online",
+        "description": "Applicants for an ACT public vehicle driver licence must meet eligibility requirements as set out in the Road Transport (Driver Licensing) Regulation 2000.\r\n\r\nAccess Canberra must confirm your identity prior to completing driver licence transactions. If you do not hold, or cannot produce, your ACT Driver Licence, you may be required to provide full proof of identity and/or residency. Further information about identity requirements can be found on the proof of identity and residency page.\r\n\r\nPublic vehicle driver licence conditions are:\r\n\r\nT - Taxi;\r\nO - Public bus;\r\nH - Hire car;\r\nM - Hire car motorcycle;\r\nW - Restricted hire car; and,\r\nD - Rideshare.\r\nEligibility requirements for all public vehicle driver licence applications include you:\r\n\r\nare a permanent Australian resident or have a visa that allows you to work in Australia;\r\nhold a full Australian driver licence; and,\r\nread and comply with all the requirements on this page.",
+        "time": 15,
+        "requirements": [
+          "a current working with vulnerable people registration (In the form of a WWVP card) ",
+          " a completed Commercial driver's health assessment  - completed by a medical practitioner ",
+          " evidence of your resident status (if required) ",
+          " English literacy assessment* (only required if applying for a 'T' condition and you don’t meet the resident status requirement)"
+        ],
+        "whatToExpect": "Once your transaction has been completed, you will be given a temporary receipt as evidence of your transaction which can be used in place of your physical card until it arrives. Please allow up to 3 weeks for delivery.",
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Standard",
+    "identityStrengthLevel": "2",
+    "messages": []
+  },
+  {
+    "id": "VERE",
+    "name": "Vehicle Registrations",
+    "category": "Transport",
+    "categoryId": "TRAN",
+    "description": "You can now renew, transfer ACT registration or even cancel registration for your motor vehicle, heavy vehicle, trailer or caravan online, 24/7.\r\n\r\nNeed a replacement registration certificate or label? You can do that too, online 24/7.\r\n\r\nYou do not need to visit an Access Canberra Service Centre, unless you require collection of ACT plates for your vehicle.\r\n\r\nMake sure you have all the documents you need for your activity and do it online today.\r\n\r\nWe process your transaction within 10 business days. You do not need to call us to check progress.\r\n\r\nEligibility\r\nVehicles, trailers or caravans already registered in the ACT.\r\nVehicles, trailers or caravans transferring registration in the ACT.\r\nVehicles, trailers or caravans unregistered for more than 12 months.\r\nVehicles, trailers or caravans being disposed of in the ACT.\r\nNote: Motor vehicles registering for the first time in the ACT will require an inspection.\r\n\r\nWhat you need\r\nYour proof of identity like your ACT Driver Licence.\r\nYour payment via card.\r\nCheck your registration needs via the online guide.\r\nPlus:\r\n\r\nRenew - complete online with your registration number, or your renewal number found on your registration renewal reminder notice received via email or post.\r\nReplace - a certificate or label online.\r\nTransfer - registration online and attach your files.\r\nCancel - complete application the form with the registration number, vehicle make, body type, and the vehicle identification number (VIN) and submit online.\r\nWhat you may also need\r\nYour concession details.\r\nYour proof of purchase receipt as a photo image or PDF.\r\nA roadworthy certificate of inspection as a photo image or PDF.\r\nA vehicle identity check report as a photo image or PDF.\r\nNote:\r\nIf your motor vehicle is a public vehicle providing taxi, rideshare, hire car services or the like, you will need to pass a roadworthy inspection.\r\n\r\nIn the ACT, when you register your motor vehicle you also pay for your insurance as part of the Motor Accidents Injuries Commission.",
+    "isPopular": true,
+    "isRelated": true,
+    "actions": [
+      {
+        "id": "CHRD",
+        "type": "Check",
+        "name": "my registration details",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "RRON",
+        "type": "Renew",
+        "name": "my registration online",
+        "requirements": [],
+        "isRelated": false
+      },
+      {
+        "id": "MYCD",
+        "type": "Update",
+        "name": "my contact/address details",
+        "requirements": [],
+        "whatToExpect": "An updated vehicle registration certificate will be mailed to your registered address. Please allow up to 3 weeks for your certificate to arrive.",
+        "isRelated": true,
+        "relatedMessage": "Updated letter of vehicle registration on the way"
+      }
+    ],
+    "serviceProvider": "Access Canberra",
+    "serviceProviderId": "ACCA",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": [
+      "**12 days** until your vehicle with registration **YHJ 12F** expires"
+    ]
+  },
+  {
+    "id": "MYWA",
+    "name": "MyWay Card",
+    "icon": "TC",
+    "category": "Transport",
+    "categoryId": "TRAN",
+    "description": "MyWay is the smartcard ticketing system used to pay for travel on Transport Canberra bus and light rail services. Tap on and tap off to pay your fare.",
+    "isPopular": false,
+    "isRelated": false,
+    "actions": [
+      {
+        "id": "AMWC",
+        "type": "Apply",
+        "name": "for a MyWay Card",
+        "description": "Register online now to purchase a standard  MyWay card.\n\nFor replacement of lost or stolen cards please purchase a new MyWay card from a MyWay agent and call 13 17 10 to cancel you old MyWay card and to request a balance transfer. ",
+        "time": 10,
+        "requirements": ["Personal details ", " Ability to pay online by card"],
+        "whatToExpect": "Your card will be sent to the address you provide in this form. One card only may be purchased at a time.\n\nPlease allow 7 working days for delivery of your MyWay card.",
+        "isRelated": false
+      },
+      {
+        "id": "CMWC",
+        "type": "Check",
+        "name": "my MyWay Card Balance",
+        "description": "Click here to check your balance online. \n\n ",
+        "time": 5,
+        "requirements": [
+          "Your MyWay card must first be registered to your MyCBR"
+        ],
+        "whatToExpect": "Easily view your current MyWay balance.",
+        "isRelated": false
+      },
+      {
+        "id": "REMW",
+        "type": "Register",
+        "name": "my MyWay Card",
+        "description": "Click here to register your MyWay card to your account.",
+        "time": 5,
+        "requirements": ["MyWay card serial number"],
+        "whatToExpect": "After registering your MyWay card to your account you'll be able to:  easily check your balance, top up your card or order a replacement card all from your MyCBR account.",
+        "isRelated": false
+      },
+      {
+        "id": "RMWC",
+        "type": "Replace",
+        "name": "my MyWay Card",
+        "description": "Is your MyWay card lost, stolen or damanged? Apply here to have a new card sent to your registered address.",
+        "time": 5,
+        "requirements": [
+          "Make sure your MyCBR details are up to date. ",
+          " Ability to pay online by card"
+        ],
+        "whatToExpect": "A new MyWay card will be sent to you registered address and your old card will be canceled. This will ensure that your travel credit is protected, so it can be applied to a new card for your use.",
+        "isRelated": false
+      },
+      {
+        "id": "TMWC",
+        "type": "Top Up",
+        "name": "my MyWay Card",
+        "description": "Easily and instantly top up your MyWay balance.",
+        "time": 5,
+        "requirements": [
+          "Your MyWay card must first be registered to your MyCBR ",
+          "  Ability to pay online by card"
+        ],
+        "whatToExpect": "Instantly load you MyWay card to use for bus and light rail. ",
+        "isRelated": false
+      }
+    ],
+    "serviceProvider": "Transport Canberra and City Services Directorate",
+    "serviceProviderId": "TCCS",
+    "identityStrength": "Basic",
+    "identityStrengthLevel": "1",
+    "messages": []
+  }
+]

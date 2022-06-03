@@ -1,0 +1,62 @@
+[
+  {
+    "id": "BUSI",
+    "name": "Business"
+  },
+  {
+    "id": "CISE",
+    "name": "City Services"
+  },
+  {
+    "id": "COFA",
+    "name": "Community and family"
+  },
+  {
+    "id": "EDUC",
+    "name": "Education"
+  },
+  {
+    "id": "ENHE",
+    "name": "Environment and heritage"
+  },
+  {
+    "id": "EVCU",
+    "name": "Events, culture, arts and tourism"
+  },
+  {
+    "id": "FATR",
+    "name": "Fair trading"
+  },
+  {
+    "id": "GOVE",
+    "name": "Government"
+  },
+  {
+    "id": "HEAL",
+    "name": "Health"
+  },
+  {
+    "id": "LAPL",
+    "name": "Land, planning, building and housing"
+  },
+  {
+    "id": "LAOR",
+    "name": "Law and order"
+  },
+  {
+    "id": "PEWI",
+    "name": "Pets and wildlife"
+  },
+  {
+    "id": "SPLE",
+    "name": "Sports, leisure and parks"
+  },
+  {
+    "id": "TRAN",
+    "name": "Transport"
+  },
+  {
+    "id": "WOHE",
+    "name": "Work health and safety"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ACCA",
+    "name": "Access Canberra",
+    "dataUsage": "Access Canberra will include your information in its \"one client record\", so that it can be used in respect of any other dealings that you might have with it. Information about your identity will also be used for administrative purposes including to confirm that we are dealing with the correct individual.\nPersonal information you provide is strictly used only for the purpose it was collected. "
+  },
+  {
+    "id": "ACRE",
+    "name": "ACT Revenue Office",
+    "dataUsage": "The personal information collected by the ACT Revenue Office is used to carry out the functions and activities in the administration of the laws it has responsibility for. For example, assessing tax liability, conducting an investigation and ensuring compliance with and administering tax laws."
+  },
+  {
+    "id": "EDUC",
+    "name": "ACT Education Directorate",
+    "dataUsage": "Information you provide voluntarily is used for delivering the documents or services you requested and in case we need extra information for clarification. We use your e-mail or other details to contact you: this may be to advise receipt, to address issues you identify, to further improve our web site, or to forward the details to another agency for appropriate action."
+  },
+  {
+    "id": "COSE",
+    "name": "Community Services Directorate",
+    "dataUsage": "At all times, the Community Services Directorate only collect the minimum information required. The personal information the Directorate collects and holds will vary depending on what is required to perform the Directorate’s functions and responsibilities."
+  },
+  {
+    "id": "TCCS",
+    "name": "Transport Canberra and City Services Directorate",
+    "dataUsage": "At all times, the TCCS only collects personal information that is reasonably necessary for, or directly related to, one or more of our functions or activities.\n\nInformation collected will only be used for the intended purposes or where the disclosure or use of that information is authorised by law."
+  }
+]
