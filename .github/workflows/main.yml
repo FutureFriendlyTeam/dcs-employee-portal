@@ -20,6 +20,6 @@ jobs:
       - name: Build static site
         run: npm run generate
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync dist/ s3://dcs-onboarding --delete --acl public-read --cache-control max-age=31536000,public
+        run: aws s3 sync dist/ s3://dcs-onboarding --delete --cache-control max-age=31536000
       - name: Invalidate cache
         run: aws cloudfront create-invalidation --distribution-id E1YIGUGZJ7JVH8 --paths "/*"
