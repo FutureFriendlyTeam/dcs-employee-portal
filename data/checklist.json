@@ -1,0 +1,312 @@
+[
+  {
+    "id": "K5A1",
+    "name": "Meet and Greet with Manager",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Team"
+  },
+  {
+    "id": "322C",
+    "name": "Meet and Greet with Buddy",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Team"
+  },
+  {
+    "id": "E9C8",
+    "name": "Introduce new starter to the team (in person, email, Workplace by Facebook etc.)",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Team"
+  },
+  {
+    "id": "SUI7",
+    "name": "Building orientation including kitchen, bathroom, First Aid, WHS, emergency procedures and locker",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "U85T",
+    "name": "Contact Service Desk to enable network access and login",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "E6M4",
+    "name": "Collect laptop and accessories",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "24C4",
+    "name": "Complete ergonomic assessment of workspace",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "IMRH",
+    "name": "Check set up of Outlook/Gmail i.e. email signature",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "R26U",
+    "name": "Commence SNSW mandatory e-learning modules",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "HA3W",
+    "name": "Activate Workplace by Facebook account, upload profile picture and update manager/organisation chart",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "ECB1",
+    "name": "Review Service NSW Intranet",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Day 1",
+    "category": "Setup"
+  },
+  {
+    "id": "5YRK",
+    "name": "1:1 with Manager to discuss role and expectations and your role within SNSW",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Team"
+  },
+  {
+    "id": "JW3U",
+    "name": "Understand the different roles within the team",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Team"
+  },
+  {
+    "id": "BIYL",
+    "name": "Review Service NSW Salaries and Conditions Award 2018",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Policies"
+  },
+  {
+    "id": "8R4A",
+    "name": "Confirm access to SAP, myCareer and other relevant systems",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Setup"
+  },
+  {
+    "id": "XJLC",
+    "name": "Overview of SAP Self Service, flex sheet, leave, etc.",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Setup"
+  },
+  {
+    "id": "K848",
+    "name": "Introduction to key contacts, e.g. GovConnect, Service Desk, P&C, etc.",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Help and Support"
+  },
+  {
+    "id": "BXK3",
+    "name": "Understand how to log an issue with the Helpdesk",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Help and Support"
+  },
+  {
+    "id": "W65W",
+    "name": "Complete SNSW Mandatory e-learning modules",
+    "time": 120,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "Week 1",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "XR83",
+    "name": "Complete Scorecard conversation",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "30 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "9JZC",
+    "name": "Overview of Probationary Review Process, week 5, 12, 20",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "30 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "A27S",
+    "name": "Complete Living the SNSW DNA Induction Day",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "30 Days",
+    "category": "Strategy"
+  },
+  {
+    "id": "XLMB",
+    "name": "Visit Service Centre, Contact Centre and/or Middle Office",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "30 Days",
+    "category": "Strategy"
+  },
+  {
+    "id": "7UUA",
+    "name": "Complete any outstanding SNSW eLearning modules",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "30 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "B34C",
+    "name": "Complete 5 week Probationary Review",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "90 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "XTBF",
+    "name": "Complete Leading with Impact (priority for people leaders)",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "90 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "G5AW",
+    "name": "Complete Recruitment for Hiring Managers (priority for people leaders)",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "90 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "PC6U",
+    "name": "Complete 12 week Probationary Review",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "90 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "U3GW",
+    "name": "Complete 20 week Probationary Review",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "90 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "3ZMY",
+    "name": "Create Individual Development Plan after conclusion of Probationary Period",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "90 Days",
+    "category": "Learning & Growth"
+  },
+  {
+    "id": "JGNB",
+    "name": "Overview of development opportunities including Course Catalogue, Learning Calendar and LinkedIn Learning",
+    "time": 60,
+    "description": "same as name",
+    "outcome": "same as name",
+    "role": "New Starter",
+    "list": "90 Days",
+    "category": "Learning & Growth"
+  }
+]

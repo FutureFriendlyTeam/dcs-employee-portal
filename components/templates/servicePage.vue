@@ -57,8 +57,8 @@
         class="flex flex-col space-y-4 md:flex-row md:space-x-6 md:space-y-0"
       >
         <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 space-y-4">
-          <nuxt-link to="/" class="no-underline">
-            <nsw-button secondary>← Back to All Services</nsw-button>
+          <nuxt-link to="/library" class="no-underline">
+            <nsw-button secondary>← Back to library</nsw-button>
           </nuxt-link>
 
           <div class="hidden md:flex flex-col space-y-2">

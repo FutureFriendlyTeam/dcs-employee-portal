@@ -17,30 +17,20 @@
 
           <div class="hidden sm:flex flex-row space-x-4">
             <nuxt-link class="no-underline hover:underline" to="/"
-              >All Services</nuxt-link
+              >Checklist</nuxt-link
+            >
+            <nuxt-link class="no-underline hover:underline" to="/library"
+              >Library</nuxt-link
+            >
+            <nuxt-link class="no-underline hover:underline" to="/accounts"
+              >Accounts</nuxt-link
             >
           </div>
         </div>
 
         <div v-if="getAuthState" class="flex flex-row space-x-8 items-center">
-          <nuxt-link class="no-underline hover:underline" to="/identity"
-            >My Identity</nuxt-link
-          >
-          <nuxt-link class="no-underline hover:underline" to="/activity"
-            >Activity Log
-            <span
-              v-if="actvities.length > 0"
-              class="bg-red text-white font-medium text-sm px-2 rounded-full"
-              >{{ actvities.length }}</span
-            ></nuxt-link
-          >
-          <nuxt-link class="no-underline hover:underline" to="/inbox"
-            >Inbox
-            <span
-              v-if="messages.length > 0"
-              class="bg-red text-white font-medium text-sm px-2 rounded-full"
-              >{{ messages.length }}</span
-            ></nuxt-link
+          <nuxt-link class="no-underline hover:underline" to="/profile"
+            >My Profile</nuxt-link
           >
 
           <a

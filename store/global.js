@@ -1,7 +1,7 @@
 export const state = () => ({
   filter: [],
   sort: 'category',
-  authState: false,
+  authState: true,
 })
 
 export const mutations = {
